@@ -1,4 +1,3 @@
-import Image from "next/image";
 import SeoHead from "./(components)/SeoHead";
 
 export default function Home() {
